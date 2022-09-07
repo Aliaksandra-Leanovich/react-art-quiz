@@ -1,0 +1,303 @@
+[
+  {
+    "id": "1",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/8/85/Autoportrait_de_Vincent_van_Gogh.JPG",
+    "question": "Как называется картина Винсента Ван Гога, которую очень долго ошибочно считали единственной проданной при его жизни?",
+    "answers": [
+      {
+        "text": "«Красные виноградники в Арле»",
+        "correct": true
+      },
+      {
+        "text": "«Звёздная ночь»",
+        "correct": false
+      },
+      {
+        "text": "«Едоки картофеля»",
+        "correct": false
+      },
+      {
+        "text": "Желтый дом",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "picture": "https://arthive.net/res/media/img/oy800/article/548/438290@2x.jpg",
+    "question": "От какого слова в переводе с французского образовалось название течения в искусстве «Импрессионизм»?",
+    "answers": [
+      {
+        "text": "эмоция",
+        "correct": false
+      },
+      {
+        "text": "впечатление",
+        "correct": true
+      },
+      {
+        "text": "страдания",
+        "correct": false
+      },
+      {
+        "text": "восторг",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Valentin_Serov_-_%D0%94%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0_%D1%81_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%92.%D0%A1.%D0%9C%D0%B0%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_-_Google_Art_Project.jpg",
+    "question": "Кто написал картину «Девочка с персиками» 1887 г.",
+    "answers": [
+      {
+        "text": "Виктор Васнецов",
+        "correct": false
+      },
+      {
+        "text": "Василий Перов",
+        "correct": false
+      },
+      {
+        "text": "Валентин Серов",
+        "correct": true
+      },
+      {
+        "text": "Марк Шагал",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "picture": "https://arthive.net/res/media/img/oy800/work/e55/302128@2x.jpeg",
+    "question": "Картина Поля Гогена «Бретонская деревня в снегу», которая продавалась на аукционе после его смерти была названа на нём «Ниагарский водопад», хотя никакого водопада на ней не было. Почему так случилось?",
+    "answers": [
+      {
+        "text": "Её по ошибке повесили вверх ногами  ",
+        "correct": true
+      },
+      {
+        "text": "Её название было неправильно переведено с французского языка",
+        "correct": false
+      },
+      {
+        "text": "Так называл её сам Гоген при жизни",
+        "correct": false
+      },
+      {
+        "text": "Ей поменяли название чтобы продать за бОльшую стоимость",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "id": "5",
+    "picture": "",
+    "question": "В каком музеи находится знаменитая картина Рафаэля «Сикстинская мадонна»?",
+    "answers": [
+      {
+        "text": "В Лувре в Париже",
+        "correct": false
+      },
+      {
+        "text": "В Галерее старых мастеров в Дрездене",
+        "correct": true
+      },
+      {
+        "text": "В Британском музее в Лондоне ",
+        "correct": false
+      },
+      {
+        "text": "В Эрмитаже в Санкт-Петербурге",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/940px-The_Scream.jpg ",
+    "question": "Кто написал картину «Крик»?",
+    "answers": [
+      {
+        "text": " Ван Гог",
+        "correct": false
+      },
+      {
+        "text": "Эдвард Мунк",
+        "correct": true
+      },
+      {
+        "text": "Кандинский Василий",
+        "correct": false
+      },
+      {
+        "text": "Сальвадор Дали",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Shishkin%2C_Ivan_-_Morning_in_a_Pine_Forest.jpg/1200px-Shishkin%2C_Ivan_-_Morning_in_a_Pine_Forest.jpg",
+    "question": " Какой художник вместе с Иваном Шишкиным написал картину «Утро в сосновом лесу»?",
+    "answers": [
+      {
+        "text": " Борис Кустодиев",
+        "correct": false
+      },
+      {
+        "text": "Илья Репин",
+        "correct": false
+      },
+      {
+        "text": "Константин Савицкий",
+        "correct": true
+      },
+      {
+        "text": "Иван Айвазовский",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg/800px-Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg",
+    "question": "Кто написал знаменитую картину «Последний день Помпеи» ?",
+    "answers": [
+      {
+        "text": "Паоло Венециано",
+        "correct": false
+      },
+      {
+        "text": "Энди Уорхол ",
+        "correct": false
+      },
+      {
+        "text": "Джексон Поллок",
+        "correct": false
+      },
+      {
+        "text": "Карл Брюллов",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "picture": "https://wall-style.com.ua/tmp/cache/images/3e/683/3e683cd2553cf186ad541a5bd1b2495d.jpg",
+    "question": "Какой художник из-за бедности топил своими картинами печь?",
+    "answers": [
+      {
+        "text": "Клод Моне",
+        "correct": false
+      },
+      {
+        "text": "Пабло Пикассо",
+        "correct": true
+      },
+      {
+        "text": "Поль Сезанн",
+        "correct": false
+      },
+      {
+        "text": "Пьер Огюст Ренуар",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Salvador_Dali_NYWTS.jpg/249px-Salvador_Dali_NYWTS.jpg",
+    "question": "Какой известный логотип нарисовал Сальвадор Дали?",
+    "answers": [
+      {
+        "text": "Кока-кола",
+        "correct": false
+      },
+      {
+        "text": "BMW",
+        "correct": false
+      },
+      {
+        "text": "Чупа-чупс",
+        "correct": true
+      },
+      {
+        "text": "McDonalds",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Lady_with_an_Ermine.jpg/220px-The_Lady_with_an_Ermine.jpg",
+    "question": "Какой миллионер приобрел собрание работ Леонардо да Винчи в 1994 году за тридцать миллионов долларов?",
+    "answers": [
+      {
+        "text": "Роман Абрамович",
+        "correct": false
+      },
+      {
+        "text": "Уоррен Баффет",
+        "correct": false
+      },
+      {
+        "text": "Руперт Мердок",
+        "correct": false
+      },
+      {
+        "text": "Билл Гейтс",
+        "correct": true
+      }
+    ]
+  },
+
+  {
+    "id": "12",
+    "picture": "https://art.goldsoch.info/pictures/image1138.jpg",
+    "question": "Какая из перечисленных картин написана Сандро Боттичелли?",
+    "answers": [
+      {
+        "text": "«Рождение Венеры»",
+        "correct": true
+      },
+      {
+        "text": "«Сикстинская Мадонна»",
+        "correct": false
+      },
+      {
+        "text": "«Сотворение Адама»",
+        "correct": false
+      },
+      {
+        "text": "«Звёздная ночь»",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/1920px-The_Great_Wave_off_Kanagawa.jpg ",
+    "question": "Какая гора изображена на картине «Большая волна в Канагаве» 1831 года? ",
+    "answers": [
+      {
+        "text": "гора Тате",
+        "correct": false
+      },
+      {
+        "text": "гора Такао",
+        "correct": false
+      },
+      {
+        "text": "гора Фудзияма",
+        "correct": true
+      },
+      {
+        "text": "гора Кита",
+        "correct": false
+      }
+    ]
+  }
+]
